@@ -1,2 +1,2 @@
-# Unfollowing_non-followers
+# Unfollowing-non-followers with Instagrapi
 Unfollow Non-Followers on Instagram Using Instagrapi
