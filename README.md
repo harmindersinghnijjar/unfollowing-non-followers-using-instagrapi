@@ -1,5 +1,7 @@
 # Unfollow Non-Followers on Instagram Using Instagrapi
 
+As written by in my [blog](https://harminder.dev/projects/Social%20media%20automation/Instagram/Unfollowing%20non-followers/Unfollowing_non-followers/)
+
 Using Instagrapi (an unofficial Instagram API wrapper for Python), you can unfollow everyone who doesn't follow you back on Instagram. Here's a Python script that does it for you.
 
 Please note that using unofficial APIs may violate Instagram's terms of service, and your account could be at risk of being banned or restricted. Use this method with caution.
