@@ -18,7 +18,8 @@ print(f"{username} is following {len(followings)} users.")
 
 # Get your nonfollowers
 nonfollowers = list(set(followings) - set(followers))
-print(f"Which means that {len(nonfollowers)} users don't follow {username} back.")
+print(f"{username} has {len(nonfollowers)} nonfollowers.")
+
 
 # Unfollow your nonfollowers
 for nonfollower in nonfollowers:
