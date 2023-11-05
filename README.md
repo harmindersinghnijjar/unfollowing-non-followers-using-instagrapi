@@ -22,7 +22,7 @@ with your username and password.
 
 After that, run the script using the following command:
 ```bash
-python unfollow_non_followers.py
+python main.py
 ```
 
 
